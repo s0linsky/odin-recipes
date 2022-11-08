@@ -6,8 +6,6 @@ In the very first project, I will be utilizing HTML and CSS to build a basic rec
 
 <b>Built With</b>
 
-examples
-
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
