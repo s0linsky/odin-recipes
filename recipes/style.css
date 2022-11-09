@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: white;
   font-family: Oxygen;
 }
 
@@ -43,6 +43,10 @@ img {
 footer {
   justify-content: center;
   align-items: center;
+}
+
+.bd-logo {
+    margin: 0;
 }
 
 .icon {
