@@ -1,25 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   background-color: whitesmoke;
+  font-family: Oxygen;
 }
 
-h1,h2,
+h1,
+h2,
 ul {
   text-align: center;
 }
 
 h2 {
-    padding-top: 7px;
+  padding-top: 7px;
 }
 
 li {
   list-style-type: none;
   margin-left: 20px;
-    margin-right: 20px;
+  margin-right: 20px;
 }
 
 a {
@@ -27,18 +31,18 @@ a {
 }
 
 i {
-    font-size: 75px;
+  font-size: 75px;
 }
 
 img {
-    max-width: 300px;
-    max-height: 200px;
-    margin-top: 20px;
+  max-width: 300px;
+  max-height: 200px;
+  margin-top: 20px;
 }
 
 footer {
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .icon {
@@ -51,78 +55,73 @@ footer {
 }
 
 .title {
-    margin: 15px;
+  margin: 15px;
 }
 
 .main {
-    padding-top: 30px;
+  padding-top: 30px;
 }
 
 .list ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding-top: 50px;
-    
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
 }
 
-
 .bardown {
-    text-align: center;
-    margin-top: 30px;
+  text-align: center;
+  margin-top: 30px;
 }
 
 .mac-card {
-    height: 230px;
-    width: 350px;
-    background-color: #8B2942;
-    color: white;
-    border-radius: 6px;
+  height: 230px;
+  width: 350px;
+  background-color: #8b2942;
+  color: white;
+  border-radius: 6px;
 }
 
 .mac-card:hover {
-    height: 230px;
-    width: 350px;
-    background-color: #8B2942;
-    color: white;
-    border-radius: 6px;
-    transform: translateX(0) scale(1.2);
-    
+  height: 230px;
+  width: 350px;
+  background-color: #8b2942;
+  color: white;
+  border-radius: 6px;
+  transform: translateX(0) scale(1.2);
 }
 
 .drai-card {
-    height: 250px;
-    width: 350px;
-    background-color: #00205B;
-    color: white;
-    border-radius: 6px;
+  height: 250px;
+  width: 350px;
+  background-color: #00205b;
+  color: white;
+  border-radius: 6px;
 }
 
 .drai-card:hover {
-    height: 260px;
-    width: 350px;
-    background-color: #00205B;
-    color: white;
-    border-radius: 6px;
-    transform: translateX(0) scale(.8);
-    
+  height: 260px;
+  width: 350px;
+  background-color: #00205b;
+  color: white;
+  border-radius: 6px;
+  transform: translateX(0) scale(0.8);
 }
 
 .mc-card {
-    height: 250px;
-    width: 350px;
-    background-color: #CF4520;
-    color: white;
-    border-radius: 6px;
+  height: 250px;
+  width: 350px;
+  background-color: #cf4520;
+  color: white;
+  border-radius: 6px;
 }
 
 .mc-card:hover {
-    height: 260px;
-    width: 350px;
-    background-color: #CF4520;
-    color: white;
-    border-radius: 6px;
-    transform: translateX(0) scale(.8);
-    
+  height: 260px;
+  width: 350px;
+  background-color: #cf4520;
+  color: white;
+  border-radius: 6px;
+  transform: translateX(0) scale(0.8);
 }
