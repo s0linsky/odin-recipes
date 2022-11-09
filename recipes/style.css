@@ -32,6 +32,12 @@ i {
 img {
     max-width: 300px;
     max-height: 200px;
+    margin-top: 20px;
+}
+
+footer {
+    justify-content: center;
+    align-items: center;
 }
 
 .icon {
@@ -60,12 +66,29 @@ img {
     
 }
 
-footer {
-    justify-content: center;
-    align-items: center;
-}
 
 .bardown {
     text-align: center;
     margin-top: 30px;
+}
+
+.mac-card {
+    height: 230px;
+    width: 350px;
+    background-color: #8B2942;
+    color: white;
+}
+
+.drai-card {
+    height: 250px;
+    width: 350px;
+    background-color: #00205B;
+    color: white;
+}
+
+.mc-card {
+    height: 250px;
+    width: 350px;
+    background-color: #CF4520;
+    color: white;
 }
